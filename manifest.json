@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Indeed Content Copier",
+  "name": "Total Jobs Content Copier",
   "version": "1.0",
-  "description": "Copy insights content from Indeed pages",
+  "description": "Copy insights content from Total Jobs pages",
   "permissions": ["clipboardWrite", "scripting", "storage"],
   "icons": {
     "16": "icons/icon16.png",
